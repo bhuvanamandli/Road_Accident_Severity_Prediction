@@ -199,9 +199,3 @@ Possible improvements include:
 This project demonstrates the development of an end-to-end Machine Learning solution for road accident severity prediction using an Artificial Neural Network.
 
 It covers the complete workflow from data preprocessing and model training to evaluation and deployment, providing practical experience in Machine Learning classification and application deployment.
-
-## Author
-
-**Bhuvana Mandli**
-
-Machine Learning and Data Science Learner
